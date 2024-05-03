@@ -1,3 +1,3 @@
 # satyamydv
 This is my first Repository                                           
-Author:satyam yadav
+Author: Satyam Yadav
